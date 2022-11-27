@@ -30,3 +30,7 @@ Instagram is developed using Flutter and Firebase. Instagram connects you to peo
 21. Follow/Unfollow
 
 ![Group 1](https://user-images.githubusercontent.com/89972827/185945138-bee87d1a-f042-48f5-89c0-a7e1d78f2e05.png)
+
+## Feedback / Buy Full Script
+
+If you have any feedback, to get the full script please reach out to me at faizangame998@gmail.com
